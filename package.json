@@ -2,7 +2,8 @@
 	"name": "bscscangetcode",
 	"displayName": "getsourcecode",
 	"description": "get source code from bsc",
-	"version": "0.0.1",
+	"publisher":"MapleCC",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.66.0"
 	},

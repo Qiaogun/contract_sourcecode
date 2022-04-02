@@ -1,22 +1,15 @@
-# Get Contract SourceCode README
+## Get Contract SourceCode
 
-This is the README for your extension "Get Contract SourceCode". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "Get Contract SourceCode". 
 
 ## Features
 Get contract sourceCode with vscode extension.
 
 ![avatar](images/get.png)
 
-## Requirements
-
 Add api Key before use.
 
 ## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-
-For example:
 
 ![avatar](images/setapikey.png)
 
